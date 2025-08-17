@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "platform": "PC",
+    "genre": "RPG",
+    "price": 59.99,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.png",
+    "description": "Acción-RPG en mundo abierto con combates desafiantes."
+  },
+  {
+    "id": 2,
+    "title": "God of War",
+    "platform": "PlayStation",
+    "genre": "Acción",
+    "price": 49.99,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.png",
+    "description": "Aventura de acción cinematográfica con Kratos."
+  },
+  {
+    "id": 3,
+    "title": "The Legend of Zelda: TOTK",
+    "platform": "Nintendo Switch",
+    "genre": "Aventura",
+    "price": 69.99,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6a4d.png",
+    "description": "Exploración y creatividad en un vasto Hyrule."
+  },
+  {
+    "id": 4,
+    "title": "Forza Horizon 5",
+    "platform": "Xbox",
+    "genre": "Carreras",
+    "price": 39.99,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3w0b.png",
+    "description": "Mundo abierto de conducción en México."
+  },
+  {
+    "id": 5,
+    "title": "Hollow Knight",
+    "platform": "PC",
+    "genre": "Metroidvania",
+    "price": 14.99,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r0v.png",
+    "description": "Metroidvania desafiante con arte hand-drawn."
+  },
+  {
+    "id": 6,
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "genre": "Acción RPG",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop",
+    "description": "RPG futurista en una ciudad abierta llena de decisiones."
+  },
+  {
+    "id": 7,
+    "title": "Red Dead Redemption 2",
+    "platform": "PlayStation",
+    "genre": "Aventura",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?q=80&w=800&auto=format&fit=crop",
+    "description": "Épica historia de forajidos en el viejo oeste."
+  },
+  {
+    "id": 8,
+    "title": "EA Sports FC 24",
+    "platform": "PlayStation",
+    "genre": "Deportes",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1543326727-cf6c39b80b9a?q=80&w=800&auto=format&fit=crop",
+    "description": "Fútbol de nueva generación con modos online."
+  },
+  {
+    "id": 9,
+    "title": "Mario Kart 8 Deluxe",
+    "platform": "Nintendo Switch",
+    "genre": "Carreras",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=800&auto=format&fit=crop",
+    "description": "Carreras arcade con power-ups para toda la familia."
+  },
+  {
+    "id": 10,
+    "title": "Spider-Man 2",
+    "platform": "PlayStation",
+    "genre": "Acción",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?q=80&w=800&auto=format&fit=crop",
+    "description": "Balanceo, combate y una historia cinematográfica."
+  },
+  {
+    "id": 11,
+    "title": "Starfield",
+    "platform": "Xbox",
+    "genre": "RPG",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1462332420958-a05d1e002413?q=80&w=800&auto=format&fit=crop",
+    "description": "Exploración espacial con cientos de planetas."
+  },
+  {
+    "id": 12,
+    "title": "Animal Crossing: New Horizons",
+    "platform": "Nintendo Switch",
+    "genre": "Simulación",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+    "description": "Crea tu isla, decora y comparte con amigos."
+  },
+  {
+    "id": 13,
+    "title": "The Last of Us Part II",
+    "platform": "PlayStation",
+    "genre": "Aventura",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "description": "Narrativa intensa en un mundo postapocalíptico."
+  },
+  {
+    "id": 14,
+    "title": "Apex Legends",
+    "platform": "PC",
+    "genre": "Shooter",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1550745165-9d5d2b2a9f3b?q=80&w=800&auto=format&fit=crop",
+    "description": "Battle royale por equipos con héroes y habilidades."
+  },
+  {
+    "id": 15,
+    "title": "Overwatch 2",
+    "platform": "PC",
+    "genre": "Shooter",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?q=80&w=800&auto=format&fit=crop",
+    "description": "Acción por equipos con héroes y objetivos."
+  },
+  {
+    "id": 16,
+    "title": "For Honor",
+    "platform": "Xbox",
+    "genre": "Acción",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?q=80&w=800&auto=format&fit=crop",
+    "description": "Combate cuerpo a cuerpo entre caballeros, vikingos y samuráis."
+  },
+  {
+    "id": 17,
+    "title": "Gran Turismo 7",
+    "platform": "PlayStation",
+    "genre": "Carreras",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=800&auto=format&fit=crop",
+    "description": "Simulación de conducción con detalle extremo."
+  },
+  {
+    "id": 18,
+    "title": "League of Legends",
+    "platform": "PC",
+    "genre": "MOBA",
+    "price": 0.00,
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=800&auto=format&fit=crop",
+    "description": "Estrategia 5v5 con campeones y objetivos."
+  },
+  {
+    "id": 19,
+    "title": "Mortal Kombat 11",
+    "platform": "PlayStation",
+    "genre": "Lucha",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop",
+    "description": "Peleas intensas con fatalities y modo historia."
+  },
+  {
+    "id": 20,
+    "title": "Stardew Valley",
+    "platform": "PC",
+    "genre": "Indie",
+    "price": 14.99,
+    "image": "https://images.unsplash.com/photo-1516822003754-cca485356ecb?q=80&w=800&auto=format&fit=crop",
+    "description": "Granjas, relaciones y exploración en un indie relajante."
+  }
+]
